@@ -14,7 +14,9 @@ Performance seems to heavily depend on the graphics card/driver/OS. Even more im
 ## Questions ##
 
 - Does JavaFX use dirty region optimization such as Swing?
+
 - Does it use additional image buffers like JCanvas3D in Java3D does?
+
   > This would be a good explanation for the fps drop. I have the feeling that the delay introduced by increased window size is independent from the number of nodes in the sceenegraph.
 
 
