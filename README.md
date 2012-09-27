@@ -15,3 +15,5 @@ Performance seems to heavily depend on the graphics card/driver/OS. Even more im
 1. perform the bubblemark (uses only wall collision)
 2. add more balls
 3. increase the window size and start with `1.` again
+
+After several runs the benchmark stops and writes the results to `statistics.txt`.
