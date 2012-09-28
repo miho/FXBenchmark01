@@ -15,7 +15,7 @@ Performance seems to heavily depend on the graphics card/driver/OS. Even more im
 
 ## Questions ##
 
-- Does JavaFX use dirty region optimization such as Swing?
+- Does JavaFX use dirty region optimization like Swing?
 
 - Does it use additional image buffers like JCanvas3D in Java3D does?
 
