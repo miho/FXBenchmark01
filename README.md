@@ -3,7 +3,7 @@ FXBenchmark01
 
 Webpage: http://mihosoft.eu/?p=280
 
-Simple JavaFX Benchmark Application based on JavaFX 2.0 BubbleMark: http://tbeernot.wordpress.com/2011/11/12/javafx-2-0-bubblemark/
+Simple JavaFX Benchmark Application based on JavaFX 2.0 BubbleMark (also works for JavaFX 8): http://tbeernot.wordpress.com/2011/11/12/javafx-2-0-bubblemark/
 
 ## Why? ##
 I have created a Visual Programming Environment using Swing. I think of switching to JavaFX. But before I start with the real implementation I want to be sure that the performance is ok. Unfortunately, JavaFX still has some critical issues that are hopefully resolved in the near future.
