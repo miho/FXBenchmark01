@@ -1,7 +1,7 @@
 FXBenchmark01
 =============
 
-Webpage: http://mihosoft.eu/?p=280
+Webpage: http://mihosoft.eu/?p=280 and http://mihosoft.eu/?p=486
 
 Simple JavaFX Benchmark Application based on JavaFX 2.0 BubbleMark (also works for JavaFX 8): http://tbeernot.wordpress.com/2011/11/12/javafx-2-0-bubblemark/
 
