@@ -29,7 +29,7 @@ Performance seems to heavily depend on the graphics card/driver/OS. Even more im
 
 After several runs the benchmark stops and writes the results to `statistics.txt`.
 
-## How to run the benchmark
+## How to run the Benchmark?
 
 ### Requirements
 
